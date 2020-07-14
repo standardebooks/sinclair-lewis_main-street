@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-7.xhtml">
+		<ignore>
+			<code>t-043</code>
+			<reason>Dialog tag doesn't require punctuation here.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-15.xhtml">
+		<ignore>
+			<code>t-029</code>
+			<reason>Capitalization is incorrect on purpose, as part of a country-style letter.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
