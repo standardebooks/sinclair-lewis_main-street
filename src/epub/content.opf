@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/sinclair-lewis/main-street</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-08-04T20:42:08Z</dc:date>
+		<meta property="dcterms:modified">2020-08-04T20:42:08Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -55,15 +55,19 @@
 		<meta id="collection-1" property="belongs-to-collection">Modern Library’s 100 Best Novels</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">68</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">An ambitious young woman chafes against the constraints of small-town America.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Carol Milford grows up in a mid-sized town in Minnesota before moving to Chicago for college. After her education, during which she’s exposed to big-city life and culture, she moves to Minneapolis to work as a librarian. She soon meets Will Kennicott, a small-town doctor, and the two get married and move to Gopher Prairie, Kennicott’s home town.&lt;/p&gt;
+			&lt;p&gt;Carol, inspired by big-city ideas, soon begins chafing at the seeming quaintness and even backwardness of the townsfolk, and their conservative, self-satisfied way of life. She struggles to try to reform the town in her image, while finding meaning in the seeming cultural desert she’s found herself in and in her increasingly cold marriage.&lt;/p&gt;
+			&lt;p&gt;Gopher Prairie is a detailed, satirical take on small-town American life, modeled after Sauk Centre, the town in which &lt;a href="https://standardebooks.org/ebooks/sinclair-lewis"&gt;Lewis&lt;/a&gt; himself grew up. The town is fully realized, with generations of inhabitants interacting in a complex web of village society. Its bitingly satirical portrayal made &lt;i&gt;Main Street&lt;/i&gt; highly acclaimed by its contemporaties, though many thought the satirical take was perhaps a bit too dark and hopeless. The book’s celebration and condemnation of small town life make it a candidate for the title of the Great American Novel.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Main Street&lt;/i&gt; was awarded the 1921 Pulitzer Prize, but the decision was overturned by the prize’s Board of Trustees and awarded instead to &lt;a href="https://standardebooks.org/ebooks/edith-wharton"&gt;Edith Wharton&lt;/a&gt; for &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/edith-wharton/the-age-of-innocence"&gt;The Age of Innocence&lt;/a&gt;&lt;/i&gt;. When Lewis went on to win the 1926 Pulitzer for &lt;i&gt;Arrowsmith&lt;/i&gt;, he declined it—with the &lt;i&gt;New York Times&lt;/i&gt; reporting that he did so because he was still angry at the Pulitzers for being denied the prize for &lt;i&gt;Main Street&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;Despite the book’s snub at the Pulitzers, Lewis went on to win the Nobel Prize in Literature in 1930, with &lt;i&gt;Main Street&lt;/i&gt; being cited as one of the reasons for his win.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/543</dc:source>
 		<dc:source>https://books.google.com/books?id=lwNbAAAAMAAJ</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">171821</meta>
+		<meta property="se:reading-ease.flesch">73.07</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Main_Street_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/sinclair-lewis_main-street</meta>
 		<dc:creator id="author">Sinclair Lewis</dc:creator>
