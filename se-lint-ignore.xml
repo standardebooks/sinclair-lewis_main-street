@@ -12,4 +12,10 @@
 			<reason>Capitalization is incorrect on purpose, as part of a country-style letter.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-18.xhtml">
+		<ignore>
+			<code>t-017</code>
+			<reason>Punctuation is part of the play title.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
