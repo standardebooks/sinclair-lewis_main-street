@@ -13,12 +13,12 @@
 	font-variant: small-caps;
 }
 
-[epub|type~="preface"] p{
-	font-style: italic;
+[epub|type~="preface"]{
+	margin-top: 20vh;
 }
 
-[epub|type~="preface"] p:first-child{
-	margin-top: 4em;
+[epub|type~="preface"] p{
+	font-style: italic;
 }
 
 [epub|type~="z3998:salutation"] + p{
