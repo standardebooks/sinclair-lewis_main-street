@@ -2,7 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-7.xhtml">
 		<ignore>
-			<code>t-043</code>
+			<code>t-042</code>
 			<reason>Dialog tag doesn't require punctuation here.</reason>
 		</ignore>
 	</file>
