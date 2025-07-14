@@ -11,6 +11,10 @@
 			<code>t-029</code>
 			<reason>Capitalization is incorrect on purpose, as part of a country-style letter.</reason>
 		</ignore>
+		<ignore>
+			<code>y-035</code>
+			<reason>Matched text is a purposeful typo.</reason>
+		</ignore>
 	</file>
 	<file path="chapter-18.xhtml">
 		<ignore>
