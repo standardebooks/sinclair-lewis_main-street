@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-7.xhtml">
-		<ignore>
-			<code>y-031</code>
+		<ignore code="y-031">
 			<reason>Dialog tag doesn't require punctuation here.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-15.xhtml">
-		<ignore>
-			<code>t-029</code>
+		<ignore code="t-029">
 			<reason>Capitalization is incorrect on purpose, as part of a country-style letter.</reason>
 		</ignore>
-		<ignore>
-			<code>y-035</code>
+		<ignore code="y-035">
 			<reason>Matched text is a purposeful typo.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-18.xhtml">
-		<ignore>
-			<code>t-017</code>
+		<ignore code="t-017">
 			<reason>Punctuation is part of the play title.</reason>
 		</ignore>
 	</file>
