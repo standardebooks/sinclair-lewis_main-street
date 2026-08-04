@@ -56,7 +56,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Modern Library’s 100 Best Novels</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">68</meta>
-		<dc:abstract>An ambitious young woman chafes against the constraints of small-town America.</dc:abstract>
+		<meta property="schema:abstract">An ambitious young woman chafes against the constraints of small-town America.</meta>
 		<dc:description>
 			&lt;p&gt;Carol Milford grows up in a mid-sized town in Minnesota before moving to Chicago for college. After her education, during which she’s exposed to big-city life and culture, she moves to Minneapolis to work as a librarian. She soon meets Will Kennicott, a small-town doctor, and the two get married and move to Gopher Prairie, Kennicott’s home town.&lt;/p&gt;
 			&lt;p&gt;Carol, inspired by big-city ideas, soon begins chafing at the seeming quaintness and even backwardness of the townsfolk, and their conservative, self-satisfied way of life. She struggles to try to reform the town in her image, while finding meaning in the seeming cultural desert she’s found herself in and in her increasingly cold marriage.&lt;/p&gt;
